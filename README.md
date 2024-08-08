@@ -4,7 +4,7 @@ Hi 👋 My name is Andrey Kuchubin
 ML, data science engineer
 -------------------------
 
-#### My Telegram: @Andrey\_Kuchubin
+#### My Telegram: [@Andrey\_Kuchubin](https://t.me/Andrey_Kuchubin)
 
 * 🌍  I'm based in Moscow
 * ✉️  You can contact me at [mr.kuchubin@mail.ru](mailto:mr.kuchubin@mail.ru)
