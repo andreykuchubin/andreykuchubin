@@ -3,6 +3,7 @@ Hi 👋 My name is Andrey Kuchubin
 
 ML, data science engineer
 -------------------------
+I am a passionate data analyst. My goal is to use data to make informed decisions and create innovative solutions.
 
 #### My Telegram: [@Andrey\_Kuchubin](https://t.me/Andrey_Kuchubin)
 
